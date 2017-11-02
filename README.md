@@ -1,6 +1,8 @@
 Role Name
 =========
 
+[![Build Status](https://travis-ci.org/shellbro/ansible-role-postfix.svg?branch=master)](https://travis-ci.org/shellbro/ansible-role-postfix)
+
 A brief description of the role goes here.
 
 Requirements
