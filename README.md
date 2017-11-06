@@ -25,7 +25,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - shellbro.postfix
+        - shellbro.postfix
 
 License
 -------
